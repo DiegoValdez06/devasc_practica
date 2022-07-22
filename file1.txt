@@ -1,0 +1,3 @@
+Soy Diego Valdez del curso 11A de IRIC
+Estoy recordando como funciona gitgit log
+Esta linea esta siendo agregada desde la rama diegov al archivo file1.txt que se encuentra en master
